@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="default_color">#5287F7</color>
+    <color name="endColor">#7EC0EE</color>
+    <color name="startColor">#5e70b6f7</color>
+
+    <color name="equalizer_background">#ffffff</color>
+    <color name="equalizer_vertical_line">#F0F4F7</color>
+    <color name="equalizer_point_connect_line">#24CAD1</color>
+
+
+</resources>
